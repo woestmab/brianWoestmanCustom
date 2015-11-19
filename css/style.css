@@ -1,0 +1,40 @@
+body {
+  background-color: lightgray;
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+}
+.icon {
+	font-size: 7em;
+	text-align: center;
+}
+#langOne {
+  padding-top: 30px;
+}
+#langTwo {
+  padding-top: 45px;
+}
+.softwareRow {
+  margin: auto;
+}
+.cogDiv {
+  padding-left: 30px;
+  padding-top: 25px;
+}
+
+.classes {
+  margin-top: 25px;
+}
+
+#languageRow2 {
+  padding-top: 15px;
+}
+
+blockquote {
+  margin-top: 15px;
+}
+
+.smallHr {
+  margin: auto;
+  width: 66%;
+  padding-bottom: 5px;
+
+}
